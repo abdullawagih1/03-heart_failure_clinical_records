@@ -4,24 +4,24 @@ Heart failure is a chronic, progressive condition in which the heart muscle is u
 Columns in the dataset
     age: Age
     
-    anaemia: Decrease of red blood cells or hemoglobin (boolean column (0:non anaemic patient  -  1:anaemic patient))
+   anaemia: Decrease of red blood cells or hemoglobin (boolean column (0:non anaemic patient  -  1:anaemic patient))
     
-    creatinine_phosphokinase: Level of the CPK enzyme in the blood (mcg/L)
+   creatinine_phosphokinase: Level of the CPK enzyme in the blood (mcg/L)
     
-    diabetes: If the patient has diabetes (boolean column (0:non diabetic patient  -  1:diabetic patient))
+   diabetes: If the patient has diabetes (boolean column (0:non diabetic patient  -  1:diabetic patient))
     
-    ejection_fraction: Percentage of blood leaving the heart at each contraction (percentage)
+   ejection_fraction: Percentage of blood leaving the heart at each contraction (percentage)
     
-    high_blood_pressure: If the patient has hypertension (boolean column (0:non hypertension patien  -  1:hypertension patiern))
+   high_blood_pressure: If the patient has hypertension (boolean column (0:non hypertension patien  -  1:hypertension patiern))
     
-    platelets: Platelets in the blood (kiloplatelets/mL)
+   platelets: Platelets in the blood (kiloplatelets/mL)
     
-    serum_creatinine: Level of serum creatinine in the blood (mg/dL)
+   serum_creatinine: Level of serum creatinine in the blood (mg/dL)
     
-    serum_sodium: Level of serum sodium in the blood (mEq/L)
+   serum_sodium: Level of serum sodium in the blood (mEq/L)
+   
+   sex: Woman or man (boolean column (0:female  -  1:male))
     
-    sex: Woman or man (boolean column (0:female  -  1:male))
+   smoking: Smoking status (boolean column (0:non smoker patient  -  1:smoker patient))
     
-    smoking: Smoking status (boolean column (0:non smoker patient  -  1:smoker patient))
-    
-    DEATH_EVENT: Patient status (boolean column (0:alive  -  1:dead))
+   DEATH_EVENT: Patient status (boolean column (0:alive  -  1:dead))
