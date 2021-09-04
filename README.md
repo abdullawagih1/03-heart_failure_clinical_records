@@ -1,0 +1,2 @@
+# 03-heart_failure_clinical_records
+Heart failure is a chronic, progressive condition in which the heart muscle is unable to  pump enough blood to meet the body's needs for blood and oxygen.  Basically, the heart can't keep up with its workload. People with cardiovascular disease or who are at high cardiovascula risk due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease.
